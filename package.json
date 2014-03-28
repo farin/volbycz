@@ -1,0 +1,10 @@
+{
+  "name": "cs-election-parser",
+  "description": "",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "sprintf": "~0.1.3",
+    "node-dbf": "~0.1.0"
+  }
+}
